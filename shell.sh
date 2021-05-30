@@ -1,5 +1,5 @@
 #/bin/bash
-
+love
 cd /
 
 sudo chown -R centos:centos opt/
