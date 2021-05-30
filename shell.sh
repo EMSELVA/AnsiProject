@@ -1,7 +1,5 @@
 #/bin/bash
 
-ssh centos@172.31.5.99
-
 cd /
 
 sudo chown -R centos:centos opt/
