@@ -8,7 +8,7 @@ cd /opt/
 
 git clone https://github.com/EMSELVA/AnsiProject.git
 
-cd /opt/AnsiProject/webapp/ 
+cd /opt/EMSELVA/AnsiProject/webapp/ 
 
 mvn clean package
 
